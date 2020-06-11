@@ -1,5 +1,5 @@
-#Project made as part of a team with fellow members CHARLIE ALLEN, AARON BLASER, BIANCA CASTILLO, MATT CLIFFORD, 
-TYLER NASS, XHULJANO GJOSHI
+#Project made as part of a team with fellow members Charlie Allen, Aaron Blaser, Bianca Castillo, Matt Clifford, 
+Tyler Nass, Xhuljano Gjoshi
 
 
 # CSC394
