@@ -4,7 +4,6 @@ Tyler Nass, Xhuljano Gjoshi
 
 ![Main TasKonnect board](https://github.com/KristoferHughes/TasKonnect-Software-Project/blob/master/kanban.png)
 
-![Login page](https://github.com/KristoferHughes/TasKonnect-Software-Project/blob/master/login%20page.png)
 
 # CSC394
 ### Software Projects
